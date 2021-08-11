@@ -2,7 +2,7 @@
 	"name": "login-with-metamask",
 	"version": "2.0.0",
 	"author": "Amaury <amaurym10@protonmail.com>",
-	"description": "Demo project for 'One-click Login with Blockchain: A MetaMask Tutorial'",
+	"description": "Demo project for 'One-click Login with Blockchain: A MetaMask Tutrial'",
 	"license": "MIT",
 	"private": true,
 	"repository": "https://github.com/amaurym/login-with-metamask-demo.git",
